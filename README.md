@@ -1,5 +1,7 @@
 # Kali-linux light with a Little Privacy !
 
+Vagrant box with from kali-light (debian) on VirtuaBox
+
 ## What it includes
 
 * Base image from [offensive-security/kali-linux-light](https://app.vagrantup.com/offensive-security/boxes/kali-linux-light)
