@@ -1,4 +1,4 @@
-# Kali-linux light with a little privacy !
+# Kali-linux light with a Little Privacy !
 
 ## What it includes
 
