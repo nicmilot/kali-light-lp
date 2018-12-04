@@ -10,17 +10,9 @@
 
 ## Installation
 
-1. `touch Vagrantfile`
-2. `nano Vagrantfile`
-
-    ```Vagrantfile
-    Vagrant.configure("2") do |config|
-        config.vm.box = "nicmilot/kali-light-lp"
-        config.vm.box_version = "1.0.0"
-    end
-    ```
-
-3. Vagrant up
+1. `$ git clone git@github.com:nicmilot/kali-light-lp.git`
+2. `$ cd kali-light-lp/vm`
+3. `$ vagrant up`
 
 ### To do after first boot
 
@@ -29,7 +21,7 @@
     * `$ cd Desktop/4nonimizer`
     * `$ sudo su`
 3. Go get [credentials](https://www.vpnbook.com/#openvpn) and install
-    * `$ sudo chmod +x 4nonimizer`
+    * `$ chmod +x 4nonimizer`
     * `$ ./4nonimizer install`
     * `$ ./4nonimizer start`
 4. Look if it works
