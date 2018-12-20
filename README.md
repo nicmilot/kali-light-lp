@@ -32,7 +32,7 @@ Vagrant box with from kali-light (debian) on VirtuaBox
     * `$ ./4nonimizer vpn_status`
 5. Continue setup
     * `$ ./4nonimizer enable_dns`
-    * `$ ./4nonimizer status`
+    * `$ ./4nonimizer vpn_status`
 
 ### Install Nipe
 Nipe is a script to make the Tor network your default gateway.
