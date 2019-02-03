@@ -46,3 +46,7 @@ Nipe is a script to make the Tor network your default gateway.
 * `$ perl nipe.pl install`
 * `$ perl nipe.pl start`
 * `$ perl nipe.pl status`
+
+### Start Conky
+
+* `$ conky -d`
