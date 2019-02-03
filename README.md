@@ -11,6 +11,7 @@ Vagrant box with from kali-light (debian) on VirtuaBox
 * Tilix (better terminal)
 * [4nonimizer](https://github.com/Hackplayers/4nonimizer)
 * [Nipe](https://github.com/GouveaHeitor/nipe)
+* conky
 
 ## Installation
 
