@@ -12,6 +12,9 @@ Vagrant box with from kali-light (debian) on VirtuaBox
 * [4nonimizer](https://github.com/Hackplayers/4nonimizer)
 * [Nipe](https://github.com/GouveaHeitor/nipe)
 * conky
+* Tor
+* Leafpad
+* Instruction for connecting Kali with Whonix Gateway
 
 ## Installation
 
